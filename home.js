@@ -35,4 +35,4 @@ else if (female.checked == true){
 else{
     alert("Error")
    }
-}
+
