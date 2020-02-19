@@ -12,7 +12,7 @@ function ghanaName(){
    var maleNames = ["Kwasi","Kwando","Kwaku","Kwabena","Yaw","kofi","kwame"];
    var femaleNames = ["Akosua","Adwoa","Abenaa","Akua","Yaa","Afua","Ama"];
   
-IF (year ==""|| year.length < 4 || year.length > 4){
+if (year ==""|| year.length < 4 || year.length > 4){
     alert("please enter a valid year!");
 }
 else if (month < 0 || month > 12){
