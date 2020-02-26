@@ -1,7 +1,8 @@
 # week2Project
 #### This is a project that help user to know his/her Akan name . 
 #### DATE 19/2/20120
-
+## link
+https://evan-cell.github.io/akan/
 ## Description
 This is web application that takes a user's birthday and calculates the day of the week 
 they were born and then depending on their gender outputs their Akan Name. 
